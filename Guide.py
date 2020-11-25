@@ -609,4 +609,131 @@ def Trophy_guide():
             need to walk over it to reveal it). This will drop you to the next area. Go into the doorway and
             you'll find a prowling demon. Kill it or don't, but make sure to loot the Eyes of Death (3x)
             behind him.
-          . To his left, you should see an open coffin, get inside that coffin and wait until you are transported.""")
+          . To his left, you should see an open coffin, get inside that coffin and wait until you are 
+            transported.
+                      Covenant: Gravelord Servant
+                      Discover Gravelord Servant covenant.
+          . Knight's Honor: Gravelord Sword | Join the covenant.
+          . In terms of achievements, you do want to join this covenant and if you have a friend farm
+            this quickly. Once the lord of this area dies (Tomb of Giants boss), the covenant becomes
+            unavailable.
+          . Transport back to the Catacmbs using the small coffin, from there simply walk into the next
+            area and climb down. The gound here will break in the center if you walk over it. Make your
+            way all the way down to the bottom.
+          . This area houses several Pinwheel Skeletons, they're extremely dangerous so dispatch of
+            them carefully. Once you make your way across the gauntlet of pinwheels, you'll get to the
+            boss.
+          . Boss: Pinwheel | I think it's a boss.
+                      Rite of Kindling
+                      Aquire the Rite of Kindling.
+          . There really isn't a bonfire after this boss, so I'll guide you to the next bonfire in the following area.""")
+    def Trophy_Tomb_of_Giants():
+        print("""Walkthrough - The Catacombs and Tomb of the Giants Bonfire
+        Tomb of Giants
+          . This area does not allow for summons.
+          . The only good source of light is either the Skull Lantern (Left and) or the Cast Light miracle.
+          . Guiding you will be extremely difficult in the dark, but we'll see what we can do with the
+            prism stones.
+          . Head to the first prism stone.
+          . Head to the second prism stone to the left.
+          . The third prism stone is to your right, head there. You will be descending slowly on a large
+            coffin used as a bridge.
+          . You will soon encounter a large skeleton to your left. The fourth prism stone is behind him.
+          . At the 4th prism stone, you will be sliding down TWICE. First slide takes you to the fifth prism
+            stone, then the next slide you won't see much as there are no more stones to follow.
+          . Now at the bottom, you will go to your RIGHT. You will encounter two large skeletons. You
+            can hug the right wall if you want safety.
+          . Soon, you will see another light ahead and an NPC. Do not go near the prism stone here. It's
+            a trap. Instead, go to the left of that and you should find a ladder.
+          . Follow the path to the bonfire.
+          . Bonfire: Tomb of the Giants | Yes, you can teleport here.
+          . Important note: If you're exploring on your own, I will put a warning here now. The prism
+            stone above that I said to avoid that triggers an event. You get kicked down to an area with
+            Rhea of Thorolund and you must save her from some enemies. If you happen to save her
+            (which you WILL need to do, but I like to delay it). When you save her and talk to her after,
+            she will relocate to Undead Parish Church where you fought the Bell Gargoyles. From this
+            point, she will sell miracles for a period of time. That period ends if you kill a combination of
+            two bosses from the following list: Gaping Dragon, Bell Gargoyles, Sif, Nito, Quelaag, the Bed
+            of Chaos, Iron Golem, O&S, Four Kings and Seath. Bosses killed prior to saving her do not
+            count.
+          . The 3 exclusive miracles she sells are: Magic Barrier, Wrath of the Gods, and Great Heal.""")
+    def Trophy_New_Londo_Ruins():
+        print("""Walkthrough - New Londo Ruins
+        New Londo Ruins
+          . Go under Firelink Shrine via the elevator to New Londo Ruins. You cannot summon here until
+            you lower the water in the area (opening the gate to Valley of Drakes). Also, make sure you
+            have the New Londo Ruin keys from Blighttown or the Master Key as well as the Covenant of
+            Artorias ring.
+          . The ghosts here cannot be harmed by regular weapons. Youcan only attack them using
+            cursed weapons, or by using Transient Curse items. I'll leave it up to you to either kill them all
+            or run passed them.
+          . Once down the elevator, head towards the docks. Just before the wooden planks, there is a
+            pot containing a 2x Transient Curse.
+          . Go across the bridges until you get to the first wall.
+          . Key Item: Fire Keeper Soul | To the right across the catwalk from the first wall. You have to
+            walk through the narrow set of arches.
+          . Transient Curse x2 | To the right of the base of the stairs in a pot behind the wall.
+          . Go up the stairs, and across the catwalk. To the left are two paths. The first is an elevator you
+            can access as a shortcut later when you've unlocked it. The second one is a stairs leading to
+            your next spot. Go down the stairs.
+          . Once out, immediately take the path to your right. Follow this path and watch for a doorway
+            on the right. Take it and go up.
+          . Just go across this walk-way towards the church.
+          . Once you're at the entrance to the church, go in, take the door to your right. Then you'll have
+            two choices, take the left path to the main room of the church. Go into the fire place and
+            climb the ladder to the roof.
+          . On the roof, you'll find Ingward, As we've already collected the Lordvesses, he will give you
+            the Key to the Seal. This key will let us open the gates and lower the water.
+          . Sorcery: Resist Curse | Purchase from Ingward for 5,000 Souls
+          . Climb back down the ladder, and go out the first door. Take the right door then go right and
+            downstairs and take the door to the left.
+          . Once out, follow the linear path. Take the right at the fork and up the stiars At the top of the
+            stairs, run straight into the tower. (Don't climb the second set of stairs).
+          . Once in, go down stairs and stay on the left and you'll find a gated door, open it with your
+            newly obtained key and rotate the lever inside.
+          . With that, the water will be drained and the door to Valley of Drakes will be opened Now
+            you can summon phantoms as well as take giant shortcuts.
+          . Taking the elevator here will take you to the very bottom of New Londo Ruins. Once you exit
+            the elevator, go straight and up the ramp between the walls. Take this linear path until you
+            reach a church-like building with several Darkwraiths (black enemies with black glowing
+            shields) and a Mass of Souls (giant blob enemy).
+          . Behind the Mass of Souls, take the left path and activate the shortcut elevator. Back to the
+            same area, take the right path now up the stairs.
+          . Key Item: Very Large Ember | Once up the stiars, follow the linear path until it takes you
+            upstairs and to a chest. The item is in the chest.
+          . Now back to the Mass of Souls once more, go out the other door into a pool of water. Climb
+            out of it and go across to your left and up the stairs to another building containing
+            Darkwraiths and Mass of Souls. Exit out the left side and the fog gate will be right in front
+            of you. Enter the fog gate.
+          . This spiral staircase will lead to the boss; however, make sure you have the Covenant of
+            Artorias ring equipped as you will die without it when falling into the Abyss at the bottom.
+            you CANNOT swap the ring out after dropping down during the fight. You will die instantly.
+          . Boss Fight: The Four Kings | They deal a good bit of magic damage, but most of it is pretty
+            tolerable The only attack that's truly dangerous is when one hugs itself and starts glowing
+            with magic. This is a large blast which may kill you one hit. The strategy here is to deal
+            DPS and ability to doge. When a king dies, you can actually still hit him while he's in the
+            dying animation to deal more damage to the boss health pool (hence Three Kings
+            nomenclature).
+                     Defeat the Four Kings
+                     Defeat the Four Kings, inheritors of souls.
+          . After the fight, as we have not placed the Lordvessel yet, you will find Kaathe near the
+            bonfire. Read this portion CAREFULLY. This next segment will show you how to both join the
+            Darkwraith covenant as well as retain Frampt's services.
+          . Rest at the bonfire to have a teleport point. Make sure you have a Homeward Bone, or use
+            your souls so you can use the Darksign when needed.
+          . Talk to Kaathe and he will ask you to place the Lordvessel for him by transporting you to
+            Firelink Altar. Once you get teleported, use a teleport item: Homeward Bone. Homeward,
+            Darksign etc.
+          . You will be back at the Abyss bonfier. Talk to Kaathe and enter covenant.
+                        Covenant: Darkwraith
+                        Discover Darkwraith covenant.
+          . Knight's Honor: Dark Hand
+          . Now, you can place the Lordvessel using either Kaathe or Frampt. It's highly recommended
+            that you place it for Frampt for his exchanges services. Frampt is the serpent in the pool of
+            Firelink Shrine.
+        Firelink Shrine
+          . Head to the pool, and talk to Frampt. If he's asleep, just hit him to wake him up.
+          . Talk to him until he moves you to Firelink Altar, then place the Lordvessel.
+          . With the Lordvessel placed, all golden fog gates will be removed giving you access to the
+            latter half of Tomb of the Giants, Duke's Archive through Anor Londo, and the latter half of
+            Demon Ruins.""")
