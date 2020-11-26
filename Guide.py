@@ -617,7 +617,7 @@ def Trophy_guide():
           . In terms of achievements, you do want to join this covenant and if you have a friend farm
             this quickly. Once the lord of this area dies (Tomb of Giants boss), the covenant becomes
             unavailable.
-          . Transport back to the Catacmbs using the small coffin, from there simply walk into the next
+          . Transport back to the Catacombs using the small coffin, from there simply walk into the next
             area and climb down. The gound here will break in the center if you walk over it. Make your
             way all the way down to the bottom.
           . This area houses several Pinwheel Skeletons, they're extremely dangerous so dispatch of
@@ -737,3 +737,135 @@ def Trophy_guide():
           . With the Lordvessel placed, all golden fog gates will be removed giving you access to the
             latter half of Tomb of the Giants, Duke's Archive through Anor Londo, and the latter half of
             Demon Ruins.""")
+    def Trophy_Painted_World_of_Ariamis():
+        print("""Walkthrough - Painted World of Ariamis
+        Painted World of Ariamis
+          . Make sure you have the Peculiar Doll key item from the Undead Asylum Revisited. Also warning
+            here: If you aggro the boss in the Painted World of Ariamis, you cannot leave until you defeat
+            it. You cannot warp out.
+          . Make your way to Anor Londo, then in the giant room with the chandelier outside the castle,
+            go downstairs and go up to the giant painting and interact with it.
+          . Upon arriving, follow the linear path.
+          . Bonfire: Painted World of Ariamis | Note: This is the only bonfire in the area.
+          . Proceed and go to your right. Go up the stairs. Warning now: The pus-like enemies inflict
+            toxin upon death if you're within splash radius.
+          . Once up the stairs, you can go left or go up the stairs to the right. Take the stairs. Go across
+            the bridge where you'll find several more pus enemies. Continue straight and exit the
+            building and head right to a circular building.
+          . Take the stairs to the left and you'll be faced with a dragon. It mainly inflicts poison, but you
+            should be able to take it out.
+          . Knight's Honor: Bloodshield | On the bridge where you fought the dragon
+          . After the dragon, head back to the circular tower. At the top is a Red Sign Soapstone if you
+            want otherwise head to the bottom and open the doorway to the courtyard.
+          . Ahead is an enemy known as the Phalanx, go across the courtyard and open the gate that
+            unlocks the shortcut to the bonfire. I will describe each area FROM the bonfire gate.
+          . Pyromancy: Acid Surge | From the gate, go to the right. Hug the right until you're near the
+            cliff and you'll find the pyromancy behind a wall.
+          . From the gate, go left and up the stairs. At the top of the stairs, go straight and go down the
+            ladder inside. This next area is filled with pinwheels.
+          . Straight in front of you is the handle that opens the gate to the boss area.
+          . From the switch, the wall to the left in the corner is an illusory wall. Break it and go straight
+            all the way to the dead end. Take the left and right at the fork.
+          . Pyromancy: Fire Surge | Kill the enemy here.
+          . Return back down to the fork and go left. Now, at the right turn, don't turn, roll into the wall
+            in front of you to reveal in illusory wall.
+          . Key item: Annex Key | Take the left at the fork to find this.
+          . Now back at the bonfire gate once more, go straight to the phalanx and enter the building to
+            the right. Using the Annex Key, open the door and climb up the stairs here. Exit the building.
+          . Knight's Honor: Velka's Rapier | Once outside, break the wooden wall to the right to find this.
+          . Key Item: Dark Ember | Once outisde, go straight and down the stairs passed several pus
+            enemies to find this on a petrified blacksmith.
+          . Miracle: Vow of Silence | Once outside, take the left at the fork and go up the stairs. The
+            miracle is on the corpse at the very top.
+          . Head to the bottom floor of the circular tower and the other door should be opened now.
+            Make your way to the boss.
+          . Knight's Honor: Priscilla's Dagger | Cut her tail
+          . Boss Fight: Crossbreed Priscilla | Upon attacking her, she aggros and goes invisible,
+            staggering her will make her visible again. If you have no methods to stagger her, then
+            simply watch the snow for her footprints to locate her.
+                      Defeat Crossbreed Priscilla
+                      Defeat Crossbreed Priscilla, the Lifehunter
+          . You may exit.""")
+    def Trophy_Demon_Ruins():
+        print("""Walkthrough - Demon Ruins & Lost Izalith
+        Blighttown
+          . Before we head to Demon Ruins, if you've followed Siegmeyer's quest he will now be in
+            Blighttown. Make sure you have 3 SPARE purple moss lcumps (non-blossomed). From the
+            Daughter of Chaos bonfire, go backwards into Blighttown and stay on the right side. Once
+            you go get to the area with the large slugs, you'll find Siegmeyer. Talk to him and give him 3
+            Purple Moss Clumps.
+        Demon Ruins
+          . Warp to the Daughter of Chaos bonfire.
+          . Go ouside to Demon Ruins.
+          . Bonfire: Infestation Bonfire
+          . Wound one of the egg enemies here so that they attack you until your character starts
+            scratching their head. Once you start scratching, head back to Eingyi at the Daughter of
+            Chaos bonfire and talk to him. He will offer to sell you Toxic Mist (exclusive) for 25,000
+            Souls. You only need to do this once per playthrough, the offer to buy will always remain
+            afterwards.
+          . Roll off to the right of the bonfire and head across the bridge.
+          . Boss Fight: Ceaseless Discharge | I'll say this now, if you run to the end of this area and loot
+            the equipment before attacking the boss, he will aggro onto you and if you ignore him and
+            run back to the fog gate, he will get stuck and will grab onto the ledge. Attack his hand to kill
+            him.
+          . After the boss fight, the lava levels will rescind.
+          . Key Item: Chaos Flame Ember | In the first area, it's located in the lava at the very end behind
+            7 Taurus Demons.
+          . Head right near the beginning of the big area, you'll find a Capra demon guarding the route
+            where you want to go.
+          . Follow the linear path and once you get to the bottom, you can drop down to the right.
+          . Bonfire: Second Bonfire
+          . Go down the steps.
+          . Key Item: Large Flame Ember | At the bottom of the steps, you'll want to take the left path to
+            a chest containing this.
+          . From the bottom of the steps, go straight up through the fog gate.
+          . Boss: Demon Firestage | Similar to the Stray Demon you fought in Undead Asylum except fire
+            attributed.
+          . After the boss, the left stairs up will take you to an elevator that connects back to the
+            Daughter of Chaos bonfire.
+          . Eventually, take the stairs down to your next bonfire.
+          . Bonfire: Bonfire between Bosses
+          . Boss: Centipede Demon | If you go to the area to the right of the boss entrance crossing the
+            lava twice, you will find a good area to fight the boss (where there's 2x Green shards).
+          . Exit the boss area to the left of the entrance.""")
+    def Trophy_Lost_Izalith():
+        print("""Walkthrough - Demon Ruins & Lost Izalith
+        Lost Izalith
+          . Warning: Before completing the boss here, make sure you have a Pyromancy Flame +10 and
+            have met up with Quelana of Izalith in Blighttown. (Encountering another player with a
+            Pyromancy Flame +10 or higher is also an alternative provided it's in the Depths, Blighttown,
+            Demon Ruins, or Lost Izalith)
+          . Bonfire: Lost Izalith Entrance | Solaire is here.
+          . The Centipede Demon drops the Orange Charred Ring. Make sure you ave it equipped
+            before venturing into the lava.
+          . Head straight into the lava, climb the branch there. Follow it till it forks, taking the left. At the
+            end of this branch, go right to the next set of branches.
+          . At the end of that branch, go straight to the first tower. The left wall of the tower is illusory.
+            Go around the tower to the right. Going up the branch above the second tower is an item,
+            but you want to go to the base of it and break the illusory wall which is also on the left.
+          . Bonfire: Lost Izalith
+          . From the bonfire, go straight to the branches ahead and climb then to the second half of
+            Lost Izalith.
+          . Follow the linear path until you climb the stairs with a giant Chaos Eater.
+          . Take the first branch down at the top of the stairs.
+          . If you run towards the item in the cave, the floor will give out. Hug the left side so you stay
+            up top.
+          . Sidequest: Siegmeyer of Catarina | If you've followed his quest to this point, he will be here
+            near the top. Kill off three Chaos Eaters from ranged, then talk to him until he says he'll join
+            you in battle. Once you jump in, he joins you. Kill the fourth and final chaos eater with
+            Siegmeyer's health above 50% to clear this stage.
+          . Key Item: Red Titanite Slab | Looking at the exit down here, take the left and left. You'll find a
+            dead end on your next right. It's in the chest.
+          . From the chest, go out go left, right, go to the end and go left. Clibm the stairs then take the
+            branch to the top.
+          . Once back up top, continue on your route.
+          . Go straight to the end and encounter another Chaos Eater
+          . Pyromancy: Chaos Fire Whip | In the chest behind the chaos eater
+          . See warning beginning of Lost Izalith before entering fog gate.
+          . Boss: Bed of Chaos | This is a scripted boss fight. Bed of Chaos has three parts, two roots and
+            the actual boss. The two roots are located inside the orange spheres to the left and right.
+            The more you break, the more holes there are in the ground. The right one is harder to break,
+            so you should go for that one first, then the left. After that, go to the middle and the floor
+            will break making you roll onto the branch. Go up and kill the Bed of Chaos.
+                        Defeat Bed of Chaos
+                        Defeat the Soul Lord Bed of Chaos.""")
