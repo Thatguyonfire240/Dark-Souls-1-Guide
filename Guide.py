@@ -869,3 +869,128 @@ def Trophy_guide():
               will break making you roll onto the branch. Go up and kill the Bed of Chaos.
                           Defeat Bed of Chaos
                           Defeat the Soul Lord Bed of Chaos.""")
+        def Trophy_Dukes_Archive():
+            print("""Walkthrough - The Duke's Archive & Crystal Cave
+            The Duke's Archive
+              . Warp to the Anor Londo bonfire, go out and take the left passed two iron boars.
+              . Bonfire: Entrance to the Duke's Archive
+              . Head inside and up the main stairs, go to the right and head to the end of the floor to the
+                right. The chest is a mimic containing the Crystal Knight Shield (this is helpful for the Crystal
+                Weapon achievement if you don't fancy a crystal weapon and want to limit the number of
+                items you use).
+              . Go to the other end and take the elevator up.
+              . If you're carrying a hefty number of souls, I would equip the Ring of Sacrifice here.
+              . Fake Boss Fight: Seath the Fake | You cannot kill him here, just die.
+              . PRISON STAGE
+              . Bonfire: Archive Prison Tower
+              . After dying, you'll wake up at the bonfire.
+              . Key Item: Archive Tower Cell Key | Attack the serpent at the gate to get the key.
+              . Key Item: Archive Tower Extra Key | From the bonfire cell, go down to the 4th floor. Open this
+                one.
+              . Head to the very bottom dispatching all of the octopus enemies.
+              . Miracle: Soothing Sunlight | Dropped by the non-hostile octopus enemy near Big Hat Logan
+              . Miracle: Bountiful Sunlight | Dropped by the non-hostile octopus enemy near Big Hat Logan
+              . Outside the cell is a ladder, climb the ladder.
+              . Key Item: Archive Tower Giant Door Key | In the chest up here
+              . With the key, climb to the very top of the tower and open the door.
+              . EXIT PRISON STAGE
+              . Follow the linear path until you return to the Duke's Archive. This is the south side.
+              . Once here, take the left and go through the hallway. Tahe the stairways from the current
+                floor to the upper floor and use the switch midway. Go up and you'll be on the floor above on
+                the same side.
+              . Cross back through the hallway here and you'll notice the stairs on this south side has also
+                rotated. You can simply drop down to the stairs and go up it ot the Channeler.
+              . Sorcery: Strong Magic Shield | After dropping down in the previous instruction, the chest is at
+                the top to the right.
+              . Return to the staircase and rotate it. Then go down the stairs and you can access a room
+                with an archer and a ladder.
+              . Climb down the ladder, pull the lever. Run out to the foyer and turn left for the bonfire.
+              . Bonfire: The Duke's Archive
+              . Return to the lever and go into the library and loot all the chests. The far right chest is a
+                mimic.
+              . Key Item: Crystal Ember | Chest ot the right behind a bookshelf
+              . Key Item: Archive Tower Giant Cell Key | Chest before the lever on the left inside the library
+              . The previous key is used in the bottom room
+              . Pull the switch to lower the ramp, go down and outside. Under the ramp is a chest with 20
+                prism stones which may help.
+              . Sidequest: Siegmeyer of Catarina | This is actually Sieglinde but the quest is tied to
+                Siegmeyer. Kill the gold golem to free Sieglinde. Talk to her and answer 'yes'. She will
+                relocate to Firelink Shrine now.
+              . Go down the slope to enter Crystal Cave""")
+        def Trophy_Crystal_Cave():
+            print("""Walkthrough - The Duke's Archive & Crystal Cave
+            Crystal Cave
+              . Follow the slopes until you see a crystal butterfly. They respwan, so unless you're farming
+                them ignore them. Go passed it an dat the end you should see several floating messages to
+                the left.
+              . Crystal Cave has invisible paths. If you see the crystals dropping, you can see them colliding
+                with the floor. If you're online, you will also find several orange messages. Those will show
+                you the safe routes. Shooting arrows, or dropping prism stones will also land on the invisible
+                flooring.
+              . Go straight along the path to the next crystal slope. Kill this golem, he does not respawn.
+              . Once on this path go straight and you should see a drop off with more messges. Drop down.
+              . Three crystal lizards behind you.
+              . Key Item: Blue Titanite Shard | On the path with the crystal lizards, you can keep going up turn
+                right then immediately left after four-five steps. Go parallel to the first path after the crystal
+                lizard until you line up with the lower ledge and go straight that way. You can save this for
+                later.
+              . From the spot you dropped off, go left a bit and cross the invisible path. Take the right path
+                to an area with several clams.
+              . Boss Notes: Having the cursebite ring is quite helpful from Oswald at the Undead Church.
+              . Knight's Honor: Moonlight Greatsword | Cut the boss tail, you MUST hit the very tip of it to
+                count for tail damage.
+              . Boss: Seath the Scaleless | If you break the crystal on the far end, Seath will be stunned for a
+                bit giving you bits of damage. Most of Seaths attack are tail slaps or his curse breath.
+                            Defeat Seath the Scaleless
+                            Defeat Seath the Scaleless, inheritors of souls.
+            The Duke's Archive
+              . Key Item: Large Magic Ember | Fount whre you first encountered Seath. Seath MUST be
+                dead for this to appear.""")
+        def Trophy_Tomb_of_Giants_2():
+            print("""Walkthrough - Tomb of the Giants
+            Tomb of the Giants
+              . Warning: If you want to obtain the Gravelord spells in this playthrough, do so before
+                defeating this area boss. If you plan to wait unitl next playthrough, make sure you DO NOT
+                turn in any Eye of Death.
+              . Warp to the Tomb of the Giants bonfire. Climb up the ladder.
+              . Sidequest: Rhea of Thorolund | You should see a prism stone and Patches. If you walk to the
+                prism stone, Patches will kick you down into a pit. Here you will find Rhea, Vince and Nico.
+                Kill Vince and Nico.
+              . Miracle: Replenishment | Talk to Rhea after exhausting her dialogue after saving her from
+                Vince and Nico.
+              . Key Item: Skull Lantern | Located in this pit, when used in the left hand, the block action will
+                hold the lantern up lighting your way. Not required, but helps.
+              . Sidequest Note: See Rhea's questline
+              . From the bonfire, go up and to the right. You should find a ladder.
+              . Key Item: Large Divine Ember | Climb the ladder down and it's in the far end
+              . From the previous ladder, go left along the narrow path. Climb the ladder into a structure
+                then go straight and climb both ladders to the left.
+              . Covenant Item: Eye of Death (x3) | On the ledge near the ladder
+              . From the bonfire again.
+              . You can talk to Patches and if you forgive him, he will relocate to Firelink Shrine where you
+                can purchase 3 more Eye of Death.
+              . From the bonfire, go up and head straight past Patches. You'll encounter a dog skeleton.
+                When you encounter the second dog skeleton, take a left into a ramp that goes down.
+              . Fix your camera to look down the ramp.
+              . Knight's Honor: Effigy Shield | Take the only right and it's at the end of the path
+              . From the ramp again, take a left to the ledge, drop off to the left of the ledge. Going straight
+                will lead you to another ledge. There's a ramp to your right and a path to your left, take the
+                path to the left.
+              . Bonfire: Second Bonfire | You can also start summoning here.
+              . You NEED to be human for this section.
+              . From the bonfire, head to the area with the ramp, you can roll or jump up the ledge to the
+                item above for a ring.
+              . Stay near the wall and drop off to the small platform. Turn around, and drop down again. You
+                should see a ladder, take it.
+              . Along this narrow path, once you take the right entrance, you will be invaded by Paladin
+                Leeroy. Kill him, but make sure you he doesn't fall off. You need to loot him.
+              . Knight's Honor: Sanctus | Dropped by Paladin Leeroy
+              . Knight's Honor: Grant | Dropped by Paladin Leeroy
+              . Enter the cave. Side note is that the baby skeletons in the pool spawn infinitely.
+              . Key Item: White Titanite Slab | At the top of the other side of this cave, the left side has a
+                drop down whre you can find this slab.
+              . Boss Fight: Gravelord Nito | He's weak against fire, but your best strategy is to stay really
+                close to him. If you hug him a lot, he tends to use his AOE attack which kills all of the
+                skeletons in range which makes it easier to fight him without worrying about the skeletons.
+                            Defeat Gravelord Nito
+                            Defeat the Soul Lord Gravelord Nito.""")
