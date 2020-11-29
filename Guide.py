@@ -1100,4 +1100,77 @@ def Trophy_guide():
               . Offer 30 Humanity to Quelaag's Sister
               . Pyromancy: Chaos Storm | Rank 2 Chaos Servant (Above step)
                          Bound of a Pyromancer
-                         Aquire all pyromancies.""")
+                         Aquire all pyromancies.
+            
+            Miracles
+              . You should already have all the gravelord miracles, if not you must do this in NG+.
+              . You should have Darkmoon Blade from the Blade of hte Darkmoon Covenant, if not you must
+                do this in NG+.
+                Rhea of Thorolund
+              . You should already have purchased: Wrath of the Gods, Magic Barrier, Seek Guidance, Great
+                Heal, Force, Homeward, Great Heal Excerpt and Heal. Following this guide should make Rhea
+                available end-game.
+                Oswald of Carim
+              . Purchase Karmic Justice from Oswald of Carim ner the Bell Gargoyles: 40,000 Souls'
+                Join the Warrior of Sunlight Covenant
+              . Miracle: Lightning Spear | Join
+              . Offer up 10 Sunlight Medals
+              . Sunlight Medals are obtained by completing boss fights by summoning gold phantoms or
+                helping others as a gold phantom. Solaire is valid.
+              . Three sunlight medals are a guaranteed chest loot in Anor Londo across the bonfire in the
+                castle.
+              . Else, you can farm Chaos Bugs in the shortcut between Demon Ruins and Lost Izalith
+                (requires Lvl 2+ Chaos Servant)
+              . Miracle: Great Sunlight Spear | Above
+              . Offer up Soul of Gwyn | Must be rank 1 of the covenant
+              . Miracle: Sunlight Spear | Above
+                          Prayer of a Maiden
+                          Aquire all miracles.""")
+        def Trophy_Clean_Up_Knights_Honor():
+            print("""Walkthrough - Clean Up Knight's Honor
+            This will only cover boss weapons and weapon drops. Guaranteed weapon finds were already
+            covered in the walkthrough. List is in order it appears in the inventory.
+            
+            Knight's Honor - Drops
+              . Silver Knight Straight Sword: Farm the Sword weilding Silver Knights in Anor Londo. Does not
+                spawn in Dark Anor Londo.
+              . Black Knight Sword: Farm the Sword wielding Black Knight in Kiln of the First Flame
+              . Stone Greatsword: Farm the Stone giants in Darkroot Garden
+              . Black Knight Greatsword: Farm the Greatsword wielding Black Knight in Kiln of the First Flame
+              . Channeler's Trident: Farm Channelers in the Duke's Archive (Rare drop)
+              . Demon's Spear: Farm Demons in Anor Londo or Purchase from Shiva of the East in
+                Blighttown
+              . Silver Knight Spear: Farm the Spearwielding Silver Knights in Anor Londo. Does not spawn in
+                Dark Anor Londo.
+              . Black Knight Halberd: Farm the Halberd wielding Black Knight in Kiln of the First Flame
+              . Giant's Halberd: Farm the Giants in Anor Londo or Purchase from Giant Blacksmith
+              . Silver Knight Shield: Farm any Silver Knight in Anor Londo. Does not spawn in Dark Anor
+                Londo.
+              . Black Knight Shield: Farm any Black Knight in Kiln of the First Flame
+              . Stone Greatshield: Farm Stone Giants in Darkroot Garden
+              
+            Knight's Honor - Boss Weapons
+              . You only get one soul per playthrough. If multiple weapons are listed, then you need multiple
+                playthroughs for them. If you're cooping with friends, you can drop trade them to lower
+                playthrough amount.
+              . To upgrade to boss souls, you'll need a required weapon type upgraded to +10 (via Andre)
+                for that weapon.
+              . Soul of Sif: Cursed Greatsword of Artorias (It's black) | Any Sword
+              . Soul of Sif: True Greatsword of Artorias (It's white) | Broken Straight Sword or Straight Sword
+                Hilt
+              . Soul of Sif: Greatshield of Artorias | Shield
+              . Soul of Quelaag: Quelaag's Fury Sword | Curved Sword
+              . Soul of Quelaag: Chaos Blade | Katana
+              . Core of an Iron Golem: Golem Axe | Axe
+              . Core of an Iron Golem: Dragon Bone First | Claw or Caestus
+              . Soul of Smough: Smough's Hammer | Hammer
+              . Soul of the Moonlight Butterfly: Moonlight Butterfly Horn | Spear
+              . Soul of the Moonlight Butterfly: Crystal Ring Shield | Shield
+              . Soul of Ornstein: Dragonslayer Spear | Spear
+              . Soul of Priscilla: Lifehunt Scythe | Scythe, Halberd, or Whip
+              . Soul of Gwyndolin: Darkmoon Bow | Bow
+              . Soul of Gwyndolin: Tin Darkmoon Catalyst | Catalyst (+0)
+              . Soul of Gwyn: Great Lord Greatsword | Sword
+              . Due to Sif, a solo run would require 2.5 playthroughs, the minimum run requirement.
+            
+            For weapon upgrades, see the respective area for it.""")
