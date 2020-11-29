@@ -994,3 +994,110 @@ def Trophy_guide():
                 skeletons in range which makes it easier to fight him without worrying about the skeletons.
                             Defeat Gravelord Nito
                             Defeat the Soul Lord Gravelord Nito.""")
+        def Trophy_Dark_Anor_Londo():
+            print("""Walkthrough - Dark Anor Londo
+            Obtaining Dark Anor Londo
+            
+            There's two ways to obtain Dark Anor Londo.
+              . Equip the Darkmoon Seance Ring found in the Catacombs.
+              . Kill Gwynevere
+            
+            Warning: Killing Gwynevere will prevent you from farming Silver
+            Knights for their weapon for Knight's Honor.
+            
+            If you kill Gwynevere, Gwyndolin will be hostile requiring sin absolution at Oswald to join the
+            Darkmoon Covenant. This will also make the Anor Londo firekeeper hostile permanently thus
+            losing the bonfire completely.
+            Else, get the ring and you can omit this completely.
+            
+            Dark Anor Londo
+              . Head to giant rotating staircase elevator in the beginning of Anor Londo. Climb to the very
+                bottom.
+              . Bonfire: Darkmoon Bonfire
+              . Head to the fog gate here, but do not enter it. Entering the fog gate will make Gwyndolin
+                hostile (duh, boss fight).
+              . Interact with the carpet and prompt to join the covenant.
+                            Covenant: Blade of the Darkmoon
+                            Discover Blade of the Darkmoon covenant.
+              . Now you'll need to collect 10 total Souvenirs of Reprisals and offer it up to Gwyndolin before
+                moving on. Killing the boss now will force you to wait until the next playthrough to get the
+                miracle related here.
+              . This guide covers how to get the guaranteed Souvenir of Reprisal by invading Lautrec in Anor
+                Londo.
+              . Another can be obtained by trading the Pendant from Rhea's questline with Snuggly the
+                Crow in the Undead Asylum.
+              . The rest can be obtained through the covenant invasions or by farming Demon Crows in the
+                Painted World of Ariamis.
+              . Note: Fighting Gwyndolin will make the Anor Londo firekeeper hostile.
+              . Boss: Dark Sun Gwyndolin | Gwyndolin has a lot of ranged attacks, and will continuously
+                teleport backwards (the hallway is not infinite so he does run out of room eventually). use
+                the pillars to the left and right if needed for cover.
+                            Defeat the Dark Sun Gwyndolin
+                            Defeat Dark Sun Gwyndolin, the Darkmoon God.
+              . Miracle: Sunlight Blade | In the chest afer the boss fight.""")
+        def Trophy_Kiln_of_the_First_Flame():
+            print("""Walkthrough - Kiln of the First Flame
+            Firelink Altar
+              . Head to the Firelink Altar and offer up the four Great Souls: Four Kings, Bed of Chaos, Seath
+                the Scaleless, and Gravelord Nito.
+              . The door will open and thus give access to Kiln of the First Flame.
+            
+            Kiln of the First Flame
+              . WARNING: Defeating the final boss will send you to NG+, do the clean-up first.
+              . Very straightforward area, home to every type of Black Knight.
+              . Boss: Gwyn, Lord of Cinder | Parry him.
+              
+            Endings
+              . There are two endings to Dark Souls and there are two achievements for each ending. For
+                guide sake, I'll put one here and the other in NG+. You can pick your ending, and then pick
+                the alternate in NG+.
+              . After the boss, light the bonfire.
+                           To Link the Fire
+                           Reach "To Link the Fire" ending.""")
+        def Trophy_Clean_Up_Spells():
+            print("""Walkthrough - Clean Up Spells
+            Any covenant related entries here will assume you have NOT leveled it up at all.
+            
+            Sorcery
+              Griggs of Vinheim
+              . Purchase Fall Control from Griggs of Vinheim: 1500 Souls
+                Dusk of Oolacile
+              . Make sure you're human. Head to Darkroot Basin where you encounter a Hydra. The guide
+                avoided this, so it may be dead already if you did it yourself. Go into the cave to the left, and
+                there should be a gold crystal golem. Defeat it. Dusk will be freed as a result.
+              . Now, reload your game, or rest at a bonfire and come back. There should be a summon sign
+                near a rock to the right of hte Hydra lake. You can summon Dusk of Oolacile. Purchase all of
+                her sorceries: 18,000 Souls
+                Big hat Logan
+              . With Seath the Scaleless defeated, Big Hat Logan moves out of the cage to the library before
+                exiting Duke's Archive.
+              . Buy all of his spells: 183,000 Souls
+              . After that, exhaust his dialogue. Rest at a bonfire, and head back to where you fought Seath
+                the first time (invincible Seath).
+              . Kill Big Hat Logan
+              . He drops White Dragon Breath, the final Sorcery.
+                          Wisdom of a Sage
+                          Aquire all sorceries.
+              . Key Item: Large Magic Ember | In the chest in the room.
+            
+            Pyromancy
+              Laurentius of the Great Swamp
+              . Meet Laurentius in Firelink Shrine after saving him in The Depths.
+              . Purchase Iron Flesh and Flash Sweat: 4,000 Souls
+                Quelana of Izalith
+              . You should already have Quelana unlocked, if not, you must do this in NG+.
+              . Head to Quelana
+              . Pyromancy: Fire Tempest | Talk to Quelana after defeating Bed of Chaos
+              . Purchase all of her pyromancies: 84,000 Souls
+                Eingyi
+              . Head to Eingyi next to the Daughter of Chaos bonfire, purchase Toxic Mist for 25,000 souls if
+                you haven't yet. He will only sell if if you've spoken to him before while infected with the
+                egghead.
+                Chaos Servant
+              . Obtain 30 Humanity
+              . Join the Chaos Servant covenant in Quelaag's Domain
+              . Pyromancy: Great Chaos Fireball | Join Chaos Servant
+              . Offer 30 Humanity to Quelaag's Sister
+              . Pyromancy: Chaos Storm | Rank 2 Chaos Servant (Above step)
+                         Bound of a Pyromancer
+                         Aquire all pyromancies.""")
