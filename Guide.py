@@ -1174,3 +1174,404 @@ def Trophy_guide():
               . Due to Sif, a solo run would require 2.5 playthroughs, the minimum run requirement.
             
             For weapon upgrades, see the respective area for it.""")
+        def Trophy_Walkthrough_Ng_Plus():
+            print("""Walkthrough - NG+
+            Note: DLC is NOT required and will not be covered here. I do recommend it though. It can be
+            accessed where you saved Dusk in Darkroot Garden.
+            
+            Make sure you purchase the Master Key from Domhnall under the Aqueduct in Firelink Shrine. It'll
+            shorten the next runs.
+            
+            Stock up on any items that you think you may want as all merchants will be reset. You can kindle
+            bonfires if you'd like. Their kindled state will be carried over.
+            
+            Things that don't carry over:
+            
+              . Blacksmith Embers
+              . NPC Questlines
+              . Sins
+              . Keys
+              
+            If you need specific items, covenants or questlines, make sure you keep track of that yourself.
+            Those will not be covered here.
+            
+            Undead Asylum
+              . If you defeat the Asylum Demon before you get the weapons, he will drop a Demon Great
+                Hammer.
+                
+            Firelink Shrine
+              . The usual.
+              
+            Undead Burg
+              . Boss Bell Gargoyle
+              . Ring the bell.
+              
+            Darkrooot Garden
+              . Boss: Moonlight Butterfly
+              . You need a second soul for Knight's Honor.
+              . Boss: Sif, the Great Grey Wolf
+              . Access Sif either through Darkroot Basin or using the Crest of Artorias
+              
+            Blighttown
+              . Skip the Depths using the Master Key
+              . Boss: Chaos Witch Quelaag
+              . You need a second soul for Knight's Honor.
+              . Ring the bell to open Sen's Fortress.
+              
+            Sen's Fortress
+              . Boss: Iron Golem
+              . You need a second soul for Knight's Honor.
+              
+            Anor Londo
+              . Boss: Ornstein and Smough
+              . You'll need a second soul for Knight's Honor.
+              . If you have Smough's soul, then make sure you kill Smough FIRST.
+              . If you have Ornstein's soul, then make sure you kill Ornstein FIRST.
+              
+            Firelink Shrine
+              . Place the Lordvessel
+            
+            Undead Asylum
+              . Boss: Stray Demon
+              . If you don't need Titanite Slabs, ignore this.
+            
+            Demon Ruins
+              . Boss: Ceaseless Discharge
+              . Boss: Centipede Demon
+            
+            New Londo Ruins
+              . Boss: Four Kings
+            
+            The Duke's Archive & Crystal Cave
+              . Blue Titanite Slab here.
+              . Boss: Seath the Scaleless
+            
+            The Catacombs
+              . Boss: Pinwheel
+            
+            Tomb of the Giants
+              . White Titanite Slab here.
+              . Boss: Gravelord Nito
+            
+            Lost Izalith
+              . Red Titanite Slab here.
+              . Boss: Bed of Chaos
+              
+            Dark Anor Londo
+              . Boss: Dark Moon Gwyndolin
+              
+            Kiln of the First Flame
+              . Boss: Gwyn, Lord of Cinder
+              . Make sure to pick the opposite ending to what you picked in your first playthrough.
+                          Dark Lord
+                          Reach "The Dark Lord" ending.
+            
+            Clean-up
+              . See the weapons clean up from NG. Create any weapons you need here at the Giant
+                Blacksmith.""")
+        def Trophy_Walkthrough_Ng_Plus_Plus():
+            print("""Walkthrough - NG++
+            Once you're ready to move onto NG++, go for it.
+            
+            Undead Asylum
+              . If you defeat the Asylum Demon before you get the weapons, he will drop a Demon Great
+                Hammer.
+              
+            Firelink Shrine
+              . The usual.
+            
+            Undead Burg
+              . Boss: Taurus Demon
+            
+            Undead Parish
+              . Boss: Bell Gargoyle
+              . Ring the bell, We need access to the Great Blacksmith
+            
+            Darkroot Garden
+              . Boss: Sif, the Great Grey Wolf
+              . You need a third soul for Knight's Honor.
+              . Access Sif either through Darkroot Basin or using the Crest of Artorias
+            
+            Blighttown
+              . Skip the Depths using the Master Key
+              . Boss: Chaos Witch Quelaag
+              . Ring the bell to open Sen's Fortress.
+            
+            Sen's Fortress
+              . Boss: Iron Golem
+            
+            Anor Londo
+              . Giant Blacksmith: If you've followed everything, this should be the last step if you're playing
+                solo. Craft the final Sif weapon.
+                            Knight's Honor
+                            Aquire all rare weapons.
+                      The Dark Soul
+                      All achievements completed. Congratulations!""")
+        def Trophy_Sidequest_Big_Hat_Logan():
+            print("""Sidequest: Big Hat Logan
+            Sen's Fortress
+              . Located in a cage in Sen's Fortress behind a wall that can be broken with a large boulder. It's
+                the wall with a serpent leaning on it near the start.
+              . You need either the Master Key (starting item for Thief, gift item, or purchase from Domhnall
+                of Zena in Firelink after ringing both bells) or the Cage Key found in Sen's Fortress in a tower
+                accessed from the roof.
+              . Rotate the boulder contraption and point it towards the leaning serpent wall.
+              . Unlock Big Hat Logan's cage. Exhaust his dialogue
+            
+            Firelink Shrine
+              . Whenever he moves over here possibly related to your time in Anor Londo, he will begin
+                selling some of his spells, but you need 15 Intelligence.
+              . You do NOT need to buy anything from him now.
+            
+            The Duke's Archive
+              . After placing the Lordvessel , he will appear in the prison cell at the bottom with several
+                Pisacas. The key to this cell is located in the library before you exit The Duke's Archive.
+              . Once you defeat Seath, he will exit the cell himnself regardless if you free him from the cell.
+                You should open the cell as there lies a Firekeeper Soul.
+              . Purchase all of his spells. Exhaust his dialogue.
+              . He relocates to the first boss arena where you fought Seath. Defeat him for his sorcery,
+                White Dragon Breath.""")
+        def Trophy_Sidequest_Rhea_of_Thorolund():
+            print("""Sidequest: Rhea of Thorolund
+            Firelink Shrine
+              . Appears in Firelink Shrine next to Petrus upon defeating Capra Demon.
+              . Talking to Petrus here will move them to Tomb of the Giants.
+            
+            Tomb of the Giants
+              . In the ditch that Patches kick you down, you'll find Rhea as well as her bodyguards. The
+                latter of whom are hollowed.
+              . Defeat Vince and Nico.
+              . Talk to Rhea and she will give you the Replenishment miracle.
+            
+            Undead Church
+              . Here she will sell all of her miracles.
+              . After saving her, if you defeat any two of the following bosses FROM THIS POINT, she will
+                die: Gaping Demon, Bell Gargoyles, Crossbreed Priscilla, Sif - the Great Grey Wolf, Gravelord
+                Nito, Chaos Witch Quelaag, Bed of Chaos, Iron Golem, Ornstein and Smough, Four Kingsm and
+                Seath the Scaleless.
+              . Note: Petrus is the one who kills her, so if you kill Petrus, you will make Rhea hostile. But you
+                can absolve your sins with Oswald.
+              . Any of the bosses who are already dead will not count towards this.
+            
+            The Duke's Archive
+              . Purchasing all of her miracles prior to her death condition in Undead Church will have her
+                hollowed an dtrapped in the Duke's Archive prison.""")
+        def Trophy_Sidequest_Siegmeyer_and_Sieglinde_of_Catarina():
+            print("""Sidequest - Siegmeyer and Sieglinde of Catarina
+            Sen's Fortress
+              . Originally found outisde the Sen's Fortress gates. Will move automatically once you open
+                them.
+              . After the gates are opened, you'll find him sitting on the ledge to the right of the first
+                boulder path. Talk to him here and exhaust his dialogue.
+            
+            Anor Londo
+              . Found in a window room accessed from the roof of Anor Londo. Talk to him here and exhaust
+                his dialogue.
+              . Next, kill the three silver knights in the adjacent room. Go back to him and exhaust his
+                dialogue.
+              . He will give you a Tiny Being's Ring, then relocates.
+            
+            Firelink Shrine
+              . He moves to the central bonfire, and talk to him. Respond with "Yes" for the Emit Force
+                miracle.
+              . Note: this is as far as you NEED to go. If you keep going, you'll get a Titanite Slab.
+              . Exhaust his dialogu: this will trigger Sieglinde's questline.
+            
+            Blighttown
+              . You will find him in the swamp near the Ash Lake branch to the right.
+              . He will ask for 3x Purple Moss Clumps. Say yes, and you'll give him 3 clumps.
+              . You will receive his Pierce Shield in exchange.
+            The Duke's Archive
+              . In the open area between the Duke's Archive and the Crystal Cave, a golden golem will now
+                appear in the middle. Defeat this to save Sieglinde.
+              . Exhaust her dialogue.
+            
+            Firelink Shrine
+              . At the main bonfire, exhaust Sieglinde's dialogue.
+            
+            Lost Izalith
+              . Located in the pit with the broken floor you can fall down to.
+              . In order to continue this questline, you need the following conditions: All four chaos eaters
+                cannot be killed before jumping down with Siegmeyer, Siegmeyer MUST have at least half his
+                health when the last Chaos Eater is killed.
+              . So to do this EASILY.
+              . Defeat 3 Chaos Eaters in the middle with range. You can damage the fourth one.
+              . Exhaust his dialogue, then jump in and defeat the fourth chaos eater. Siegmeyer will jump
+                down with you.
+              . Exhaust his dialogue.
+            
+            Firelink Shrine
+              . If you pass the condition of saving Siegmeyer in Lost Izalith, talk to Sieglinde once more at
+                the bonfire.
+              . Exhaust her dialogue.
+            
+            Ash Lake
+              . You will find both located at the first bonfire here.
+              . You will be rewarded with a Titanite Slab.""")
+        def Trophy_Covenants():
+            print("""Covenants
+            Covenants are similar to factions in several games and Dark Souls provides several types of
+            factions. Below will list every faction, their requirements, how to join them, and any related
+            information.
+            
+            The most important note here is: If you leave a covenant, the amount of points you've
+            accumulated in that covenant will be halved, (i.e. if you gave 20 humanity to a covenant, leaving
+            it will make it seem as if you only gave it 10).
+                        Covenant: Way of White
+                        Discover Way of White covenant.
+            Tags: Missable | Starter | Co-op
+            Missable Condiiton: Petrus and Rhea are dead/hostile. Petrus becomes permanently hostile after
+            saving Rhea in Tomb of the Giants.
+            Location: N/A | Firelink Shrine | Undead Parish
+            Join Condition: Talk to Petrus or Rhea | Automatically joined if Knight/Cleric Class
+            No Rank
+            
+                      Covenant: Princess's Guard
+                      Discover Princess's Guard covenant.
+            Tags: Missable | Co-op
+            Missable Condition: Gwynevere is killed.
+            Location: Anor Londo
+            Join Condition: Talk to Gwynevere after Ornstein and Smough
+            No Rank
+            
+                      Covenant: Blade of the Darkmoon
+                      Discover Blade of the Darkmoon covenant.
+            Tags: Missable | PvP | Territorial Defense
+            Missable Condition: [Boss] Gwyndolin is killed.
+            Location: Dark Anor Londo
+            Join Condition: Talk to the Gwyndolin before his fog gate.
+            
+            Rank | Condition                  | Reward                                      |
+            0    | Join                       | Blue Eye Orb | Darkmoon Blade Covenant Ring |
+            1    | 10 Souvenirs of Reprisals  | Darkmoon Blade | Darkmoon Talisman          |
+            2    | +20 Souvenirs of Reprisals | None                                        |
+            3    | +50 Souvenirs of Reprisals | None                                        |
+            
+                      Covenant: Warrior of Sunlight
+                      Discover Warrior of Sunlight covenant.
+            Tags: Co-op
+            Location: Alter of Sunlight | Undead Parish Bridge under Hellkite Dragon
+            Join Condition: 25 Faith - (5 * Bosses cleared as White Phantom)
+            
+            Rank | Condition          | Reward                                                        |
+            0    | Join               | Lightning Spear                                               |
+            1    | 10 Sunlight Medals | Great Lightning Spear | Offer Soul of Gwyn for Sunlight Spear |
+            2    | 30 Sunlight Medals | None                                                          |
+            3    | 80 Sunlight Medals | None                                                          |
+            
+                        Covenant: Forest Hunter
+                        Discover Forest Hunter covenant.
+            Tags: PvP | Territorial Defense
+            Location: Darkroot Garden
+            Join Condition: Talk to Alvina and respond with "Yes". If you mess up, absolve your sins with
+            Oswald.
+            
+            Rank | Condition          | Reward            |
+            0    | Join               | Cat Covenant Ring |
+            0    | 1 Invader Killed   | Divine Blessing   |
+            0    | 3 Invaders Killed  | Ring of Fog       |
+            1    | 10 Invaders Killed | None              |
+            2    | 30 Invaders Killed | None              |
+            3    | 80 Invaders Killed | None              |
+            
+                        Covenant: Darkwraith
+                        Discover Darkwraith covenant.
+            Tags: Missable | PvP
+            Missable Condition: Place the Lordvessel for Frampt before talking to Kaathe
+            Location: The Abyss [New Londo Ruins]
+            Join Condition: Talk to Kaathe
+            
+            Rank | Condition           | Reward                |
+            0    | Join                | Dark Hand             |
+            1    | 10 Humanity Offered | Red Eye Orb           |
+            2    | 30 Humanity Offered | Dark Sword | Dark Set |
+            3    | 80 Humanity Offered | None                  |
+            
+                      Covenant: Path of the Dragon
+                      Discover Path of the Dragon covenant.
+            Tags: PvP
+            Location: Ash Lake
+            Join Condition: Talk to the Stone Dragon
+            
+            Rank | Condition                | Reward                         |
+            0    | Join                     | Dragon Eye | Dragon Head Stone |
+            1    | 10 Dragon Scales Offered | None                           |
+            2    | 30 Dragon Scales Offered | Dragon Torso Stone             |
+            3    | 80 Dragon Scales Offered | None                           |
+            
+                      Covenant: Gravelord Servant
+                      Discover Gravelord Servant covenant.
+            Tags: Missable | PvP
+            Missable Condition: [Boss] Gravelord Nito is killed
+            Location: The Catacombs
+            Join Condition: Interact with Nito's sarcophagus with at least one Eye of Death
+            
+            Rank | Condition                | Reward                                  |
+            0    | Join                     | Gravelord Sword | Gravelord Sword Dance |
+            1    | 10 Eyes of Death Offered | Gravelord Greatsword Dance              |
+            2    | 30 Eyes of Death Offered | None                                    |
+            3    | 80 Eyes of Death Offered | None                                    |
+            
+                      Covenant: Chaos Servant
+                      Discover Chaos Servant covenant.
+            Tags: Missable | PvE
+            Missable Condition: Quelaag's Sister is killed.
+            Location: Quelaag's Domain
+            Join Condition: Talk to Quelaag's Sister
+            
+            Rank | Condition           | Reward               |
+            0    | Join                | Great Chaos Fireball |
+            1    | 10 Humanity Offered | None                 |
+            2    | 30 Humanity Offered | Chaos Storm          |
+            3    | 80 Humanity Offered | None                 |""")
+        def Trophy_Knights_Honor_Guidelines():
+            print("""Knight's Honor - Guidelines
+            This is by far the hardest achievement of the game whether it's unconfirmed lists of weapons, or
+            RNG itself. This will help mediate some of the issues.
+            
+              . All weapons MUST be on a single character.
+              . Weapons CAN be dropped from other players (in +0 form).
+              . You should NOT use weapons required for Knight's Honor to ascend weapons to their Boss
+                equivalent UNLESS you have another. (i.e. using a Bloodshield to create the Greatshield of
+                Artorias)
+              . If the achievement does not register and you're certain that you've got everything, try
+                dropping weapons and picking them back up or putting them into the bottomless box and
+                taking them out.
+              . Weapons gained through glitches do not count.""")
+        def Trophy_Knights_Honor_Sorted_by_Categories():
+            print("""Knight's Honor - Sorted by Categories
+            Boss Soul Weapons
+            Boss Weapons can be obntained by upgrading a weapon similar of the same nature to max, then
+            ascending it to the boss variant using the soul of that boss. Example: The Chaos Blade is a katana
+            built from the Soul of Quelaag; therefore, the player will need a +10 Katana (Washingpole, laito,
+            or Uchigatana) and the Soul of Quelaag to create the Chaos Blade.
+            
+            Weapons are listed in order of bosses that you encounter in the walkthrough.
+            
+            Name                 | Boss Soul                      | Weapon Type                                               |
+            Moonlight Butterfly  | Moonlight Butterfly (Darkroot  | Spears/Rapiers -                                          |
+            Horn                 | Garden)                        | Spear sold by Male Undead Merchant                        |
+            Crystal Ring Shield  | Moonlight Butterfly (Darkroot  | Shields - Buckler sold by Male Undead Merchant            |
+                                 | Garden)                        |                                                           |
+            Greatsword of        | Great Grey Wolf Sif (Darkroot  | Swords/Daggers/Greatsword - Dagger sold by Male           |
+            Artorias (Cursed)    | Garden)                        | Undead Merchant                                           |
+            True Greatsword of   | Great Grey Wolf Sif (Darkroot  | Broken Straight Sword/ Straight Sword Hilt - Dropped by   |
+            Artorias             | Garden)                        | the Undead/Starting Weapon                                |
+            Greatshield of       | Great Grey Wolf Sif (Darkroot  | Shields - Buckler sold by Male Undead Merchant            |
+            Artorias             | Garden)                        |                                                           |
+            Chaos Blade          | Chaos Witch Quelaag            | Katanas - Sold by Shiva of the East                       |
+                                 | (Blighttown)                   |                                                           |
+            Quelaag's Fury       | Chaos Witch Quelaag            | Curved Sword - Scimitar sold by Undead Male Merchant      |
+            Sword                | (Blighttown)                   |                                                           |
+            Golem's Axe          | Iron Golem (Sen's Fortress)    | Axes - Hand Axe sold by Male Undead Merchant              |
+            Dragon Bone Fist     | Iron Golem (Sen's Fortress)    | Caestus/Claw - Caestus sold by Andre of Astora            |
+            Smough's Hammer      | Smough (Anor Londo)            | Hammer - Club sold by Male Undead Merchant                |
+            Dragonslayer Spear   | Ornstein (Anor Londo)          | Spears/Rapiers - Spear sold by Male Undead Merchant       |
+            Lifehunt Scythe      | Crossbreed Priscilla (Painted  | Halberds/Scythes/Whips - Halberd can be found in front    |
+                                 | World of Ariamis)              | of the church                                             |
+            Darkmoon Bow         | Dark Sun Gwyndolin (Dark       | Bow - Short Bow sold by Male Undead Merchant              |
+                                 | Anor Londo)                    |                                                           |
+            Tin Darkmoon         | Dark Sun Gwyndolin (Dark       | Catalyst - Sorcerer's Catalyst sold by Rickert of Vinheim |
+            Catalyst             | Anor Londo)                    |                                                           |
+            Great Lord           | Gwyn (Kiln of the First Flame) | Swords/Daggers/Greatsword - Dagger sold by Male           |
+            Greatsword           |                                | Undead Merchant                                           |""")
