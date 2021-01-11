@@ -946,7 +946,7 @@ def Trophy_guide():
             The Duke's Archive
               . Key Item: Large Magic Ember | Fount whre you first encountered Seath. Seath MUST be
                 dead for this to appear.""")
-        def Trophy_Tomb_of_Giants_2():
+        def Trophy_Tomb_of_Giants2():
             print("""Walkthrough - Tomb of the Giants
             Tomb of the Giants
               . Warning: If you want to obtain the Gravelord spells in this playthrough, do so before
@@ -1035,7 +1035,7 @@ def Trophy_guide():
                             Defeat the Dark Sun Gwyndolin
                             Defeat Dark Sun Gwyndolin, the Darkmoon God.
               . Miracle: Sunlight Blade | In the chest afer the boss fight.""")
-        def Trophy_Kiln_of_the_First_Flame():
+        def Trophy_Kiln_of_The_First_Flame():
             print("""Walkthrough - Kiln of the First Flame
             Firelink Altar
               . Head to the Firelink Altar and offer up the four Great Souls: Four Kings, Bed of Chaos, Seath
@@ -1331,7 +1331,7 @@ def Trophy_guide():
               . Purchase all of his spells. Exhaust his dialogue.
               . He relocates to the first boss arena where you fought Seath. Defeat him for his sorcery,
                 White Dragon Breath.""")
-        def Trophy_Sidequest_Rhea_of_Thorolund():
+        def Trophy_Sidequest_Rhea_Of_Thorolund():
             print("""Sidequest: Rhea of Thorolund
             Firelink Shrine
               . Appears in Firelink Shrine next to Petrus upon defeating Capra Demon.
@@ -1356,7 +1356,7 @@ def Trophy_guide():
             The Duke's Archive
               . Purchasing all of her miracles prior to her death condition in Undead Church will have her
                 hollowed an dtrapped in the Duke's Archive prison.""")
-        def Trophy_Sidequest_Siegmeyer_and_Sieglinde_of_Catarina():
+        def Trophy_Sidequest_Siegmeyer_And_Sieglinde_Of_Catarina():
             print("""Sidequest - Siegmeyer and Sieglinde of Catarina
             Sen's Fortress
               . Originally found outisde the Sen's Fortress gates. Will move automatically once you open
@@ -1538,7 +1538,7 @@ def Trophy_guide():
                 dropping weapons and picking them back up or putting them into the bottomless box and
                 taking them out.
               . Weapons gained through glitches do not count.""")
-        def Trophy_Knights_Honor_Sorted_by_Categories():
+        def Trophy_Knights_Honor_Sorted_By_Categories():
             print("""Knight's Honor - Sorted by Categories
             Boss Soul Weapons
             Boss Weapons can be obntained by upgrading a weapon similar of the same nature to max, then
