@@ -1,3 +1,6 @@
+#import dictionary initalization function, then run it to initialize the dictionaries
+from Dict_Initialization import Dict_Init
+Dict_Init()
 def Main_menu():
     print("""Hello! Welcome to the interactive Dark Souls 1 Guide!
     Please select an option to continue!
