@@ -5,13 +5,13 @@ def Dict_Init():
     with open(filename, 'r') as data:
         for line in csv.DictReader(data):
             Sorceries_Wisdom_of_a_Sage = line
-            print(Sorceries_Wisdom_of_a_Sage)
+          
     filename="Knights_Honor_Sorted_by_Categories_Boss_Soul_Weapons.csv"
     Knights_Honor_Sorted_by_Categories_Boss_Soul_Weapons = {}
     with open(filename, 'r') as data:
         for line in csv.DictReader(data):
             Knights_Honor_Sorted_by_Categories_Boss_Soul_Weapons = line
-            print(Knights_Honor_Sorted_by_Categories_Boss_Soul_Weapons)
+            
             
     filename="guide.csv"
     Guide = {}
