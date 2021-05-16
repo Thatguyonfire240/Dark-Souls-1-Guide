@@ -2,12 +2,17 @@
 from Dict_Initialization import Dict_Init
 Dict_Init()
 def Main_menu():
-    print("""Hello! Welcome to the interactive Dark Souls 1 Guide!
+    selection = input("""Hello! Welcome to the interactive Dark Souls 1 Guide!
     Please select an option to continue!
-    1. Walkthrough
-    2. 100% Trophy Guide """)
+    1. Walkthrough""")
+    if selection == "1":
+      Trophy_guide()
+    
+    else:
+      Main_menu()
+
 def Trophy_guide():
-        print("""Using this Guide
+    print("""Using this Guide
                 The focus of this guide is achievements. This will not run through every possible item in the
             game, even loot spot, every item drop. For the most part, the instructions will take you from the
             previous point to the next point of interest skipping everything along the way.
@@ -42,8 +47,8 @@ def Trophy_guide():
             stay in the current playthrough. If you're doing in coop, it's okay for both players to make the
             Great Lord Greatsword after the first playthrough and then do the Miracle after the second
             playthrough (unless you're in faith build). Then you would only have to make it to the Sunlight
-            Altar in NG++.""")
-        def Trophy_Introduction():
+            Altar in NG++.""")    
+    def Trophy_Introduction():
           print("""Walkthrough - Introduction
             Character Setup
                 . While the Master Key is probably the best starting item, I will not be writing the guide to
@@ -95,8 +100,8 @@ def Trophy_guide():
                             Covenant: Way of White
                             Discover Way of White covenant.
                 . From there, loot what you want here. Head towards the aqueducts to proceed to the Undead
-                  Parish.""")
-        def Trophy_Undead_Burg():
+                  Parish.""")    
+    def Trophy_Undead_Burg():
           print("""Walkthrough - Undead Burg
           Undead Burg
             . Once you exit the aqueducts, you'll arrive in the Undead Burg. Proceed along the linear path
@@ -130,8 +135,8 @@ def Trophy_guide():
             . Now, you have two options. Completely avoid the dragon, or run under it. Make sure you
               have arrowsand a bow (doesn't have to be stat required). Shoot the Hellkite Dragon to make
               him jump down. Then simply run under him into the gate.
-            . Bonfire: Sunlight Altar""")
-        def Trophy_Undead_Parish():
+            . Bonfire: Sunlight Altar""")    
+    def Trophy_Undead_Parish():
           print("""Walkthrough - Undead Parish 
           Undead Parish
             . Pulling the lever will lift the gate permanently.
@@ -185,8 +190,8 @@ def Trophy_guide():
               bottom of the stairs is a corpse containing the Basement Key. If the gate is closed, feel free
               to open it.
             . Head to the Undead Parish bonfire now. From there, head downstairs passed Andre of Astora
-              and you'll find a Titanite Demon. You can ignore it for now.""")
-        def Trophy_Darkroot_Garden():
+              and you'll find a Titanite Demon. You can ignore it for now.""")    
+    def Trophy_Darkroot_Garden():
           print("""Walkthrough - Darkroot Garden
           Darkroot Garden
             . Now, this area is fairly straightforward. At the first fork, right takes you to Darkroot Basin
@@ -206,8 +211,8 @@ def Trophy_guide():
             . After the fight, go up the long flight of stairs. You'll see a corpse loot. Loot it three times,
               the second being the Divine Ember.
             . Divine Ember can be given to Andre to ascend +5 weapons into Divine.
-            . Return to the Undead Parish where the Hellkite Dragon is.""")
-        def Trophy_Lower_Undead_Burg():
+            . Return to the Undead Parish where the Hellkite Dragon is.""")    
+    def Trophy_Lower_Undead_Burg():
           print("""Walkthrough - Lower Undead Burg 
           Lower Undead Burg
             . Once in, go down. At the bottom, take the right stiars up and open the door to unlock the
@@ -226,8 +231,8 @@ def Trophy_guide():
               the stairs up.
             . Once you're at the top, enter the aqueduct. To your right is the Female Undead Merchant. Go
               left, and unlock the shortcut to Firelink Shrine.
-            . Return to the fork where you went upstairs and open the door to the Depths.""")
-        def Trophy_The_Depths():
+            . Return to the fork where you went upstairs and open the door to the Depths.""")    
+    def Trophy_The_Depths():
           print("""Walkthrough - The Depths
           The Depths
             . Progress in the area. You'll face off with a butcher. After the butcher is a chest containing the
@@ -265,8 +270,8 @@ def Trophy_guide():
             . Boss: Gaping Demon | First off, cut the tail off for the Dragon King Greataxe. Then, simply
               just have the boss lay down a bunch and then get a bunch of hits in. Rinse repeat. Do not
               underestimate the size of the boss, he covers a lot of ground.
-            . After the fight, you'll get the Blighttown Keys. Return to the merchant NPC and open the locked doors near him.""")
-        def Trophy_Blighttown():
+            . After the fight, you'll get the Blighttown Keys. Return to the merchant NPC and open the locked doors near him.""")    
+    def Trophy_Blighttown():
           print("""Walkthrough - Blighttown
           Upper Blighttown
             . Fist make your way down all the ladders. Heads up, equip some poison healing and use a
@@ -320,8 +325,8 @@ def Trophy_guide():
             . Now, also talk to the speechless spider on the wall. You'll eventually get the prompt to enter
               the covenant.
                         Covenant: Chaos Servant
-                        Discover Chaos Servant covenant.""")
-        def Trophy_Blighttown_Connections():
+                        Discover Chaos Servant covenant.""")    
+    def Trophy_Blighttown_Connections():
           print("""Walkthrough - Blighttown Connections
           From Blighttown, you can access several non-required areas that contain important items for
           completing achievements. You may revisit these later if you want.
@@ -371,8 +376,8 @@ def Trophy_guide():
                           Covenant: Path of the Dragon
                           Discover Path of the Dragon covenant.
             . Knight's Honor: Dragon Greatsword | Now cut off his tail for this weapon. He won't aggro.
-            . You're done here!""")
-        def Trophy_Sens_Fortress():
+            . You're done here!""")    
+    def Trophy_Sens_Fortress():
           print("""Walkthrough - Sen's Fortress
           With both bells rang, Sen's Fortress will be open now.
         
@@ -447,8 +452,8 @@ def Trophy_guide():
             . Boss Fight: Iron Golem | He's big, but his attacks are fairly telegraphed. You can hug his feet
               for most of the fight, except when he goes for his grab attack. Besides that and falling off,
               should be an easy but long fight.
-            . After the fight, examine the ring.""")
-        def Trophy_Anor_Londo():
+            . After the fight, examine the ring.""")    
+    def Trophy_Anor_Londo():
           print("""Walkthrough - Anor Londo
           Anor Londo
                   Reach Anor Londo
@@ -512,8 +517,8 @@ def Trophy_guide():
               this will make a later Covenant missable. See Covenant: Darkwraith in New Londo Ruins
           Firelink Shrine
             . Sidequest: Siegmeyer of Catarina | He will be right next to the bonfire. Talk to him.
-            . Miracle: Emit Force | Above""")
-        def Trophy_Darkroot_Garden2():
+            . Miracle: Emit Force | Above""")    
+    def Trophy_Darkroot_Garden2():
           print("""Walkthrough - Darkroot Garden Part 2
           Darkroot Garden
             . You have two options here, either go here from Darkroot Basin through the Hydra, or by
@@ -532,8 +537,8 @@ def Trophy_guide():
                           Art of Abysswalking
                           Aquire the Art of Abysswalking.
             . The Covenant of Artorias ring will allow you to progress to the boss in New Londo Ruins.
-            . Side Note: There's another ring behind the grave.""")
-        def Trophy_Firelink_Shrine2():
+            . Side Note: There's another ring behind the grave.""")    
+    def Trophy_Firelink_Shrine2():
           print("""Walkthrough - Firelink Shrine Part 2
             . Whatever you do, don't talk to the giant snake in the pool. Especially do not put down the
               Lordvessel for him.
@@ -541,8 +546,8 @@ def Trophy_guide():
               disabled (although it can be warped to, but not warped from). If you move donwstairs under
               the bonfire, you should see a gate where Anastasia was, and some items. Her Dingy set and
               a Black Eye Orb should be dropped.
-            . Take the Black Eye Orb.""")
-        def Trophy_Anor_londo2():
+            . Take the Black Eye Orb.""")    
+    def Trophy_Anor_londo2():
           print("""Walkthrough - Anor Londo Part 2
             . Warp to the Chamber of the Princess bonfire, then head outisde of Ornstein & Smough's
               boss room. The Black Eye Orb should give you a message, so use it to invade Lautrec.
@@ -562,8 +567,8 @@ def Trophy_guide():
               and face off against the Stray Demon.
             . Knight's Honor: Crest Shield | Return to where you got your Estus Flask and you should find a
               knight hollowed (Oscar). Kill him for the shield.
-            . Key item: Peculiar Doll | Return to the very first spawn point of the game in the cell.""")
-        def Trophy_The_Catacombs():
+            . Key item: Peculiar Doll | Return to the very first spawn point of the game in the cell.""")    
+    def Trophy_The_Catacombs():
           print("""Walkthrough - The Catacombs and Tomb of the Giants Bonfire
           The Catacombs
             . I recommend having someone with a divine weapon for this section as skeletons here can
@@ -629,8 +634,8 @@ def Trophy_guide():
             . Boss: Pinwheel | I think it's a boss.
                         Rite of Kindling
                         Aquire the Rite of Kindling.
-            . There really isn't a bonfire after this boss, so I'll guide you to the next bonfire in the following area.""")
-        def Trophy_Tomb_of_Giants():
+            . There really isn't a bonfire after this boss, so I'll guide you to the next bonfire in the following area.""")    
+    def Trophy_Tomb_of_Giants():
           print("""Walkthrough - The Catacombs and Tomb of the Giants Bonfire
           Tomb of Giants
             . This area does not allow for summons.
@@ -659,8 +664,8 @@ def Trophy_guide():
               two bosses from the following list: Gaping Dragon, Bell Gargoyles, Sif, Nito, Quelaag, the Bed
               of Chaos, Iron Golem, O&S, Four Kings and Seath. Bosses killed prior to saving her do not
               count.
-            . The 3 exclusive miracles she sells are: Magic Barrier, Wrath of the Gods, and Great Heal.""")
-        def Trophy_New_Londo_Ruins():
+            . The 3 exclusive miracles she sells are: Magic Barrier, Wrath of the Gods, and Great Heal.""")    
+    def Trophy_New_Londo_Ruins():
           print("""Walkthrough - New Londo Ruins
           New Londo Ruins
             . Go under Firelink Shrine via the elevator to New Londo Ruins. You cannot summon here until
@@ -739,8 +744,8 @@ def Trophy_guide():
             . Talk to him until he moves you to Firelink Altar, then place the Lordvessel.
             . With the Lordvessel placed, all golden fog gates will be removed giving you access to the
               latter half of Tomb of the Giants, Duke's Archive through Anor Londo, and the latter half of
-              Demon Ruins.""")
-        def Trophy_Painted_World_of_Ariamis():
+              Demon Ruins.""")    
+    def Trophy_Painted_World_of_Ariamis():
           print("""Walkthrough - Painted World of Ariamis
           Painted World of Ariamis
             . Make sure you have the Peculiar Doll key item from the Undead Asylum Revisited. Also warning
@@ -788,8 +793,8 @@ def Trophy_guide():
               simply watch the snow for her footprints to locate her.
                         Defeat Crossbreed Priscilla
                         Defeat Crossbreed Priscilla, the Lifehunter
-            . You may exit.""")
-        def Trophy_Demon_Ruins():
+            . You may exit.""")    
+    def Trophy_Demon_Ruins():
           print("""Walkthrough - Demon Ruins & Lost Izalith
           Blighttown
             . Before we head to Demon Ruins, if you've followed Siegmeyer's quest he will now be in
@@ -830,8 +835,8 @@ def Trophy_guide():
             . Bonfire: Bonfire between Bosses
             . Boss: Centipede Demon | If you go to the area to the right of the boss entrance crossing the
               lava twice, you will find a good area to fight the boss (where there's 2x Green shards).
-            . Exit the boss area to the left of the entrance.""")
-        def Trophy_Lost_Izalith():
+            . Exit the boss area to the left of the entrance.""")    
+    def Trophy_Lost_Izalith():
           print("""Walkthrough - Demon Ruins & Lost Izalith
           Lost Izalith
             . Warning: Before completing the boss here, make sure you have a Pyromancy Flame +10 and
@@ -871,8 +876,8 @@ def Trophy_guide():
               so you should go for that one first, then the left. After that, go to the middle and the floor
               will break making you roll onto the branch. Go up and kill the Bed of Chaos.
                           Defeat Bed of Chaos
-                          Defeat the Soul Lord Bed of Chaos.""")
-        def Trophy_Dukes_Archive():
+                          Defeat the Soul Lord Bed of Chaos.""")    
+    def Trophy_Dukes_Archive():
             print("""Walkthrough - The Duke's Archive & Crystal Cave
             The Duke's Archive
               . Warp to the Anor Londo bonfire, go out and take the left passed two iron boars.
@@ -919,8 +924,8 @@ def Trophy_guide():
               . Sidequest: Siegmeyer of Catarina | This is actually Sieglinde but the quest is tied to
                 Siegmeyer. Kill the gold golem to free Sieglinde. Talk to her and answer 'yes'. She will
                 relocate to Firelink Shrine now.
-              . Go down the slope to enter Crystal Cave""")
-        def Trophy_Crystal_Cave():
+              . Go down the slope to enter Crystal Cave""")    
+    def Trophy_Crystal_Cave():
             print("""Walkthrough - The Duke's Archive & Crystal Cave
             Crystal Cave
               . Follow the slopes until you see a crystal butterfly. They respwan, so unless you're farming
@@ -948,8 +953,8 @@ def Trophy_guide():
                             Defeat Seath the Scaleless, inheritors of souls.
             The Duke's Archive
               . Key Item: Large Magic Ember | Fount whre you first encountered Seath. Seath MUST be
-                dead for this to appear.""")
-        def Trophy_Tomb_of_Giants2():
+                dead for this to appear.""")    
+    def Trophy_Tomb_of_Giants2():
             print("""Walkthrough - Tomb of the Giants
             Tomb of the Giants
               . Warning: If you want to obtain the Gravelord spells in this playthrough, do so before
@@ -996,8 +1001,8 @@ def Trophy_guide():
                 close to him. If you hug him a lot, he tends to use his AOE attack which kills all of the
                 skeletons in range which makes it easier to fight him without worrying about the skeletons.
                             Defeat Gravelord Nito
-                            Defeat the Soul Lord Gravelord Nito.""")
-        def Trophy_Dark_Anor_Londo():
+                            Defeat the Soul Lord Gravelord Nito.""")    
+    def Trophy_Dark_Anor_Londo():
             print("""Walkthrough - Dark Anor Londo
             Obtaining Dark Anor Londo
             
@@ -1037,8 +1042,8 @@ def Trophy_guide():
                 the pillars to the left and right if needed for cover.
                             Defeat the Dark Sun Gwyndolin
                             Defeat Dark Sun Gwyndolin, the Darkmoon God.
-              . Miracle: Sunlight Blade | In the chest afer the boss fight.""")
-        def Trophy_Kiln_of_The_First_Flame():
+              . Miracle: Sunlight Blade | In the chest afer the boss fight.""")    
+    def Trophy_Kiln_of_The_First_Flame():
             print("""Walkthrough - Kiln of the First Flame
             Firelink Altar
               . Head to the Firelink Altar and offer up the four Great Souls: Four Kings, Bed of Chaos, Seath
@@ -1056,8 +1061,8 @@ def Trophy_guide():
                 the alternate in NG+.
               . After the boss, light the bonfire.
                            To Link the Fire
-                           Reach "To Link the Fire" ending.""")
-        def Trophy_Clean_Up_Spells():
+                           Reach "To Link the Fire" ending.""")    
+    def Trophy_Clean_Up_Spells():
             print("""Walkthrough - Clean Up Spells
             Any covenant related entries here will assume you have NOT leveled it up at all.
             
@@ -1128,8 +1133,8 @@ def Trophy_guide():
               . Offer up Soul of Gwyn | Must be rank 1 of the covenant
               . Miracle: Sunlight Spear | Above
                           Prayer of a Maiden
-                          Aquire all miracles.""")
-        def Trophy_Clean_Up_Knights_Honor():
+                          Aquire all miracles.""")    
+    def Trophy_Clean_Up_Knights_Honor():
             print("""Walkthrough - Clean Up Knight's Honor
             This will only cover boss weapons and weapon drops. Guaranteed weapon finds were already
             covered in the walkthrough. List is in order it appears in the inventory.
@@ -1176,8 +1181,8 @@ def Trophy_guide():
               . Soul of Gwyn: Great Lord Greatsword | Sword
               . Due to Sif, a solo run would require 2.5 playthroughs, the minimum run requirement.
             
-            For weapon upgrades, see the respective area for it.""")
-        def Trophy_Walkthrough_Ng_Plus():
+            For weapon upgrades, see the respective area for it.""")    
+    def Trophy_Walkthrough_Ng_Plus():
             print("""Walkthrough - NG+
             Note: DLC is NOT required and will not be covered here. I do recommend it though. It can be
             accessed where you saved Dusk in Darkroot Garden.
@@ -1271,8 +1276,8 @@ def Trophy_guide():
             
             Clean-up
               . See the weapons clean up from NG. Create any weapons you need here at the Giant
-                Blacksmith.""")
-        def Trophy_Walkthrough_Ng_Plus_Plus():
+                Blacksmith.""")    
+    def Trophy_Walkthrough_Ng_Plus_Plus():
             print("""Walkthrough - NG++
             Once you're ready to move onto NG++, go for it.
             
@@ -1309,8 +1314,8 @@ def Trophy_guide():
                             Knight's Honor
                             Aquire all rare weapons.
                       The Dark Soul
-                      All achievements completed. Congratulations!""")
-        def Trophy_Sidequest_Big_Hat_Logan():
+                      All achievements completed. Congratulations!""")    
+    def Trophy_Sidequest_Big_Hat_Logan():
             print("""Sidequest: Big Hat Logan
             Sen's Fortress
               . Located in a cage in Sen's Fortress behind a wall that can be broken with a large boulder. It's
@@ -1333,8 +1338,8 @@ def Trophy_guide():
                 You should open the cell as there lies a Firekeeper Soul.
               . Purchase all of his spells. Exhaust his dialogue.
               . He relocates to the first boss arena where you fought Seath. Defeat him for his sorcery,
-                White Dragon Breath.""")
-        def Trophy_Sidequest_Rhea_Of_Thorolund():
+                White Dragon Breath.""")    
+    def Trophy_Sidequest_Rhea_Of_Thorolund():
             print("""Sidequest: Rhea of Thorolund
             Firelink Shrine
               . Appears in Firelink Shrine next to Petrus upon defeating Capra Demon.
@@ -1358,8 +1363,8 @@ def Trophy_guide():
             
             The Duke's Archive
               . Purchasing all of her miracles prior to her death condition in Undead Church will have her
-                hollowed an dtrapped in the Duke's Archive prison.""")
-        def Trophy_Sidequest_Siegmeyer_And_Sieglinde_Of_Catarina():
+                hollowed an dtrapped in the Duke's Archive prison.""")    
+    def Trophy_Sidequest_Siegmeyer_And_Sieglinde_Of_Catarina():
             print("""Sidequest - Siegmeyer and Sieglinde of Catarina
             Sen's Fortress
               . Originally found outisde the Sen's Fortress gates. Will move automatically once you open
@@ -1410,8 +1415,8 @@ def Trophy_guide():
             
             Ash Lake
               . You will find both located at the first bonfire here.
-              . You will be rewarded with a Titanite Slab.""")
-        def Trophy_Covenants():
+              . You will be rewarded with a Titanite Slab.""")    
+    def Trophy_Covenants():
             print("""Covenants
             Covenants are similar to factions in several games and Dark Souls provides several types of
             factions. Below will list every faction, their requirements, how to join them, and any related
@@ -1526,8 +1531,8 @@ def Trophy_guide():
             0    | Join                | Great Chaos Fireball |
             1    | 10 Humanity Offered | None                 |
             2    | 30 Humanity Offered | Chaos Storm          |
-            3    | 80 Humanity Offered | None                 |""")
-        def Trophy_Knights_Honor_Guidelines():
+            3    | 80 Humanity Offered | None                 |""")    
+    def Trophy_Knights_Honor_Guidelines():
             print("""Knight's Honor - Guidelines
             This is by far the hardest achievement of the game whether it's unconfirmed lists of weapons, or
             RNG itself. This will help mediate some of the issues.
@@ -1540,8 +1545,8 @@ def Trophy_guide():
               . If the achievement does not register and you're certain that you've got everything, try
                 dropping weapons and picking them back up or putting them into the bottomless box and
                 taking them out.
-              . Weapons gained through glitches do not count.""")
-        def Trophy_Knights_Honor_Sorted_By_Categories():
+              . Weapons gained through glitches do not count.""")    
+    def Trophy_Knights_Honor_Sorted_By_Categories():
             print("""Knight's Honor - Sorted by Categories
             Boss Soul Weapons
             Boss Weapons can be obntained by upgrading a weapon similar of the same nature to max, then
@@ -1577,4 +1582,4 @@ def Trophy_guide():
             Tin Darkmoon         | Dark Sun Gwyndolin (Dark       | Catalyst - Sorcerer's Catalyst sold by Rickert of Vinheim |
             Catalyst             | Anor Londo)                    |                                                           |
             Great Lord           | Gwyn (Kiln of the First Flame) | Swords/Daggers/Greatsword - Dagger sold by Male           |
-            Greatsword           |                                | Undead Merchant                                           |""")
+            Greatsword           |                                | Undead Merchant                                           |""")    
