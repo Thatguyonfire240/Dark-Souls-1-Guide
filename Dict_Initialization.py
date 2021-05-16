@@ -1,4 +1,3 @@
-from Guide import Trophy_guide
 def Dict_Init():
     import csv
     filename="Sorceries_Wisdom_of_a_Sage.csv"
