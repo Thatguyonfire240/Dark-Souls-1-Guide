@@ -6,21 +6,30 @@ Dict_Init()
 def Input():
   #this will take you to the next page
   if selection == "1":
-    PgNext
+    PgNext()
   
   #this will take you to the previous page
   elif selection == "2":
-    PgPrevious
+    PgPrevious()
+
+#This function is just used to handle which page is the next page
+def PgNext():
+  Main_menu()
+
+#This function is used to handle which page is the previous page
+def PgPrevious():
+  Trophy_guide()
 
 def Main_menu():
-    selection = input("""Hello! Welcome to the interactive Dark Souls 1 Guide!
-    Please select an option to continue!
-    1. Walkthrough""")
-    if selection == "1":
-      Trophy_guide()
+  selection = input("""Hello! Welcome to the interactive Dark Souls 1 Guide!
+  Please select an option to continue!
+  1. Walkthrough""")
+  
+  if selection == "1":
+    Trophy_guide()
     
-    else:
-      Main_menu()
+  else:
+    Main_menu()
 
 def Trophy_guide():
     print("""Using this Guide
